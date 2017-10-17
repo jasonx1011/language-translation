@@ -2,6 +2,6 @@
 
 **Deep Learning Foundation Nanodegree Program**  
 
-**Project 4: Language Translation**  
+**Project 4 (seq2seq RNN): Language Translation**  
 
 Completed      
