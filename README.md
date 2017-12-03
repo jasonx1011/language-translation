@@ -1,10 +1,9 @@
 # language-translation  
 
-**Deep Learning Foundation Nanodegree Program**  
+**Language Translation using seq2seq RNNs**  
 
-**Project 4 (seq2seq RNN):**  
-  
-**Language Translation**   
+**Summary**   
+Translated new sentences from English to French using encoder/decoder techniques, validation accuracy = 0.96  
   
 Please see detail in python notebook (.ipynb)  
   
