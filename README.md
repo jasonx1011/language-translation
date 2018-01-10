@@ -5,7 +5,7 @@
 **Summary**   
 Translated new sentences from English to French using encoder/decoder techniques, validation accuracy = 0.96  
   
-Please see detail in python notebook (.ipynb)  
+Please see detail in python [notebook](./dlnd_language_translation.ipynb) (.ipynb)  
   
 **Sample Results:**  
 ```
